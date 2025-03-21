@@ -1,6 +1,8 @@
 
+<p align="center">Meu nome é Luis Henrique e possuo habilidades em <strong>Typescript/Javascript</strong> (Nest.JS e Angular). 
+Estou me especializando com a stack <strong>Ruby</strong> e o framework <strong>Ruby on Rails</strong>. 
+Também possuo uma boa experiência com <strong>PHP (Laravel)</strong> e banco de dados (<strong>MySQL e SQL Server</strong>) na criação e manutenção de procedures, functions e views.</p>
 
-<p align="center">Meu nome é Luis Henrique e possuo habilidades em **Typescript/Javascript** (Nest.JS e Angular). Estou me especializando com a stack **Ruby** e o framework **Ruby on Rails**. Também possuu uma boa experiência com PHP (Laravel) e banco de dados (MySQL e SQL Server) na criação e manutenção de procedures, functions e views.</p>&nbsp;
 
 
  
