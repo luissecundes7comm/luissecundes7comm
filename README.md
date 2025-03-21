@@ -1,6 +1,6 @@
 
 
-<p align="center">Meu nome é Luis Henrique e possuo habilidades em Typescript/Javascript (Nest.JS e Angular). Estou me especializando com a stack Ruby e o framework Ruby on Rails. Também possuu uma boa experiência com PHP (Laravel) e banco de dados (MySQL e SQL Server) na criação e manutenção de procedures, functions e views.</p>&nbsp;
+<p align="center">Meu nome é Luis Henrique e possuo habilidades em **Typescript/Javascript** (Nest.JS e Angular). Estou me especializando com a stack **Ruby** e o framework **Ruby on Rails**. Também possuu uma boa experiência com PHP (Laravel) e banco de dados (MySQL e SQL Server) na criação e manutenção de procedures, functions e views.</p>&nbsp;
 
 
  
@@ -20,11 +20,11 @@
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
 
@@ -39,9 +39,9 @@
 
 #### Databases:
 
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
