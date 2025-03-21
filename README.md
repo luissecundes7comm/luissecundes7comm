@@ -5,7 +5,7 @@ Também possuo uma boa experiência com <strong>PHP (Laravel)</strong> e banco d
 
 
 
- 
+<!--  
 <h1>Github Status</h1>
 
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=luissecundes7comm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
@@ -13,7 +13,7 @@ Também possuo uma boa experiência com <strong>PHP (Laravel)</strong> e banco d
  
  &nbsp;
  &nbsp;
-
+-->
 
 
 ## My Skills
