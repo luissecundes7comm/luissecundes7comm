@@ -8,8 +8,8 @@ Também possuo uma boa experiência com <strong>PHP (Laravel)</strong> e banco d
  
 <h1>Github Status</h1>
 
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=luissecundes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissecundes&layout=compact&langs_count=16&theme=dark"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=luissecundes7comm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissecundes7comm&layout=compact&langs_count=16&theme=dark"/>
  
  &nbsp;
  &nbsp;
